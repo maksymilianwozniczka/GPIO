@@ -116,4 +116,5 @@ int main(){
     }
 }
 
-//test_gita
+//GIT_ODDANIE 02.06
+
